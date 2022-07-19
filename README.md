@@ -1,4 +1,4 @@
-# Astro Player
+# Deeze_API_Utilization
 
 A Web application built using React, Redux & Deezer API.
 
@@ -15,12 +15,10 @@ A Web application built using React, Redux & Deezer API.
 - Responsive design
 - Browse Deezer's featured playlists, albums, artists and tracks
 - Search for any artist, song or album
-- Install as PWA
+
 
 ## Get Started
 
-1. `git clone https://github.com/opeoyeleke/astro-player.git`
-2. `cd astro-player`
-3. `npm install`
-4. `npm run start` (start development server)
-5. Enjoy at http://localhost:3000
+1.`npm install`
+2. `npm start` (start development server)
+3. Enjoy at http://localhost:3000
